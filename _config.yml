@@ -3,3 +3,6 @@ remote_theme: dsncp/just-the-docs
 aux_links:
   "Test Link":
     - "https://github.com/dsncp/just-the-docs"
+    
+    
+logo: "/openssl.svg"
